@@ -1,0 +1,15 @@
+{
+  "original_sha256": "5932ac3c5698eb181ff9635af82f8a51a585bd585732165c31060de2c139b21d",
+  "original_file_count": 175,
+  "recovered_sources": 169,
+  "unrecovered": [
+    "ModuleInfo.txt",
+    "DATA/Items/2Pelengator_Art.gi",
+    "DATA/Script/Mod_DevKit.scr",
+    "Native/DevKitWheel.dll",
+    "DATA/Items/2Pelengator_Art_s.gi",
+    "DATA/Items/2Pelengator_Art_ab.gi"
+  ],
+  "rebuilt_inner_files_exact": true,
+  "in_game_tested": false
+}

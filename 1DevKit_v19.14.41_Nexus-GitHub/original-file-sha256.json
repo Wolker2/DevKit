@@ -1,0 +1,712 @@
+{
+  "files": {
+    "Mods/Tweaks/DevKit/ModuleInfo.txt": {
+      "bytes": 772,
+      "sha256": "5581b82bfe8673769aa4676eb0ba93791aaa0cbbb849149157fe5b5809eba163"
+    },
+    "Mods/Tweaks/DevKit/CFG/CacheData.dat": {
+      "bytes": 1214,
+      "sha256": "f79624abec1eed72481f773738124f80dac3dc885c2e01f986d709fa295f3846"
+    },
+    "Mods/Tweaks/DevKit/CFG/Main.dat": {
+      "bytes": 6277,
+      "sha256": "b7f5892ab790ce1fca200b5149e0cfbc9f148890c8cc685cc9d2ed4918a27ffa"
+    },
+    "Mods/Tweaks/DevKit/CFG/Rus/Lang.dat": {
+      "bytes": 16541,
+      "sha256": "1f479cef8ee2c50a18f702920de55ab0280cbab026cc34a3842e0e4ab99d10eb"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/ButBrigdeA.gi": {
+      "bytes": 5006,
+      "sha256": "281a435b0150c971f858cf1679c4336f286b1b6050655f52d6df8ea7664e7cb8"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/ButBrigdeD.gi": {
+      "bytes": 3989,
+      "sha256": "95e3b97fc69341c933f671a3a89317f0b9dfcadcfeaa8f2f8da5fae453bf8b4e"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/ButBrigdeN.gi": {
+      "bytes": 4883,
+      "sha256": "7a0f3b4f3de85283cdfc8c5caf629b298cdf3c8f322d7eb8454d0ff30ae22913"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconEmpty.gi": {
+      "bytes": 160,
+      "sha256": "3a8949b8e87f112b1bcc81692242c6d71a89a619b247eb4affb3715f566a4f73"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconL_00.gi": {
+      "bytes": 7488,
+      "sha256": "cffa7c77ed045b034633b58c3104f280cf93540c5c1465b9b293150fe095b3d5"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconL_01.gi": {
+      "bytes": 7488,
+      "sha256": "490deb6beeeda9bd87d19bc4136bbd957d97a555a495939761f6bde52893927a"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconL_02.gi": {
+      "bytes": 7488,
+      "sha256": "360726bae1dac25e60195e4e1d7df7734a66ed62bf1f6df77dc17ae020e6f40e"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconL_03.gi": {
+      "bytes": 7488,
+      "sha256": "49e67a541af8abe4fffaef09df93db6a6e763253f0ded6dcc36a46230ffef1d7"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconL_04.gi": {
+      "bytes": 7488,
+      "sha256": "41709cfc7f641b946371ea05f97d5bd368bc0af8fb47dbdeafe2501ca9b1460c"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconL_05.gi": {
+      "bytes": 7488,
+      "sha256": "87c41b0dd9d1f1c9b4ef4192b421fc0f18a08c27cdbb8aa42105551210cb2927"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconL_06.gi": {
+      "bytes": 7488,
+      "sha256": "7cba544e3bc27a2108e19223c3873b816df6ebcbaa3dc5561e7730b186e7ebad"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconL_07.gi": {
+      "bytes": 7488,
+      "sha256": "a209f8d67cfd5da989db33c179320c92dcc2ce73b261e8b0d746b4327ca72934"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconL_08.gi": {
+      "bytes": 7488,
+      "sha256": "932e5208a1cf0d7be6adeb120cfb3bad386aaecbcec114f06598daf156fb87ec"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconL_09.gi": {
+      "bytes": 7488,
+      "sha256": "057dc5167e5f4cd9b23627d33012d54eb856b167fdbdc780c038bd035843d35d"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconL_10.gi": {
+      "bytes": 7488,
+      "sha256": "ef0dda36f44bfb2ca7dc4fa3913d568d0611a5a58ce9d710cfda1173f1696171"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconL_11.gi": {
+      "bytes": 7488,
+      "sha256": "8786bd730c739973ad3e2957bb2749e49ae5fb5c318134f71ce42c46ced3111a"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconL_12.gi": {
+      "bytes": 7488,
+      "sha256": "3d807cf2c3b1d31540669f8d713e6d46d33cc61743360a00de92748551e17d4c"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconL_13.gi": {
+      "bytes": 7488,
+      "sha256": "ff3cfc0bbd4db8aebeec9a051481e40eea3372b2329cdba45414f03f19a2ca05"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconL_14.gi": {
+      "bytes": 7488,
+      "sha256": "fed13b4357d7cc17f9db08e4842a175bae9e94d60a012b0ee4b3deeeecbde5ee"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconL_15.gi": {
+      "bytes": 7488,
+      "sha256": "d25e14993adea8af73316dd40ffc1711b691b5fb20ee871e2c22da444a6510a0"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconL_16.gi": {
+      "bytes": 7488,
+      "sha256": "6b0100f40aaa1cecbd933f9cd81abdb6418f9794402acfc1aabcb312a66a834d"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconL_17.gi": {
+      "bytes": 7488,
+      "sha256": "925e0ab18624521431db88487e97a4e24ccaa11bc6f6b5fb27ce8cd33d17fa97"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconL_18.gi": {
+      "bytes": 7488,
+      "sha256": "81ef3afa79fc9d60cd3295ff02e64a04b537b94f7382807d0e54d610b6d1615b"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconL_19.gi": {
+      "bytes": 7488,
+      "sha256": "baf70adda21cc4e5391fe57a4bb1dd56e0b4a5d7f1ec8f822b96c2d0878204a9"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconL_20.gi": {
+      "bytes": 7488,
+      "sha256": "cad7f108909fbecdc35f609e0110c80d8cf15099fbf230097a295fa5c88302a2"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconL_21.gi": {
+      "bytes": 7488,
+      "sha256": "dc973fac3758fdca436c3e74c4ad7bf78f8313cb02e7c0455c3a15b6ff71854c"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconL_22.gi": {
+      "bytes": 7488,
+      "sha256": "2f6eeca773b584328dc77d8d8301ee82f2d91190b31c7b049d3d1155a96fca22"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconL_23.gi": {
+      "bytes": 7488,
+      "sha256": "9062a215df820738a041fabb95d1a23b5f32be2c73c6243332b1776ae47922c8"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconL_24.gi": {
+      "bytes": 7488,
+      "sha256": "c8ec9e0a22836c61903dcff7ffe9419d177d45800e2122fb0b77f5e151b57ec6"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconL_25.gi": {
+      "bytes": 7488,
+      "sha256": "a6d7a68f1ed75baf91733aa458b9c6ad2a7bd0651213468734666d455ff58bd4"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconL_26.gi": {
+      "bytes": 7488,
+      "sha256": "8d7e11090f6962d66984b4d2ffb8e9b5a66e2a0901432d5492988c8f668ba2d9"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconL_27.gi": {
+      "bytes": 7488,
+      "sha256": "0380a069c91018c7b9456df92488d858199bf082fedcd6fdab4c7000b936203a"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconL_28.gi": {
+      "bytes": 7488,
+      "sha256": "d3ea05baa96586aeb414c8a7b319d39ddaeaa468d38ca7225e46cc56ce38b757"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconL_29.gi": {
+      "bytes": 7488,
+      "sha256": "f09b154d63601d1991b2fd144575443f515f17cb3ffbae079739bbcdafc05624"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconL_30.gi": {
+      "bytes": 7488,
+      "sha256": "e146625144690118113ac6236a0497e178acc9a4226d56d9fa01591a2e129a7c"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconL_31.gi": {
+      "bytes": 7488,
+      "sha256": "a0ced1532b73b1718057a3629b2bcafcaad25b50f2d1f781561eb6ca26bc445a"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconL_32.gi": {
+      "bytes": 7488,
+      "sha256": "530e4ea5d2e7dd8838a5cd4dfc1ac6988ca047464f7cbff50bd90823d9c28c12"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconL_33.gi": {
+      "bytes": 7488,
+      "sha256": "f568a5e1c36560c59b75e79ddbf2441a01f94db0a98dc48a69b37d1ba27b664b"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconL_34.gi": {
+      "bytes": 7488,
+      "sha256": "866cdc6df14c03827e5308670e2836b4f02c784517ee5a48a63918c8d2d2b529"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconL_35.gi": {
+      "bytes": 7488,
+      "sha256": "1f6b9cdeea4d8daa8759ed547175741dadedcddcb3bd9807807b2137bd1f9f27"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconL_36.gi": {
+      "bytes": 7488,
+      "sha256": "952cb116d6dd47df3326c6a7c9a541e5ff1c218869430a9aeda03be8dd97c290"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconL_37.gi": {
+      "bytes": 7488,
+      "sha256": "95c1ca48dc6d5832beb49b9be76404a60019d22e83cc92b0c3bbf6f433bef31f"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconL_38.gi": {
+      "bytes": 7488,
+      "sha256": "68f749251e5116eab6603fe490ca37bb98da3a1bf8c522ef5f99f950f8eeb79a"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconL_39.gi": {
+      "bytes": 7488,
+      "sha256": "1f4c24f1a82c94e7a0e59a78b81f456dafceaf76a7dc4dce17963aec0c25de6c"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconL_40.gi": {
+      "bytes": 7488,
+      "sha256": "7441df99b126c3020ecb420f699b55085c9889eae2466b4fcb0daa0943a57a83"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconL_41.gi": {
+      "bytes": 7488,
+      "sha256": "9f9eb3445a7b0d34c08f2bb8cb50051ac9c2de4e5f6380e27490f823e699b476"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconL_42.gi": {
+      "bytes": 7488,
+      "sha256": "fa15d70847078de24218dce15d9513e96b4a38b8d6c0c240df3759a59e20c293"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconL_43.gi": {
+      "bytes": 7488,
+      "sha256": "5fb543dd11e74a1d747d6ecb4aa95a85e8f49f22abb86b530b01394e84d91f6f"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconL_44.gi": {
+      "bytes": 7488,
+      "sha256": "1b219fe9db2a99ebb8991eca27ed39b29e6c806289b5763fe519cc88251f9ce3"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconL_45.gi": {
+      "bytes": 7488,
+      "sha256": "3e7e439b38400270f1362cdabaf3e5fe5613b2917a5e61fe17dcddf1633d547d"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconL_46.gi": {
+      "bytes": 7488,
+      "sha256": "4ad1e53e22b4883d807cc4038652d6f35c5f8430ad38df1b53344dfbc7214cf0"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconL_47.gi": {
+      "bytes": 7488,
+      "sha256": "4fd389eb574d1ddc725b915303a0e4206ef4583c857039e1e245cc321bab1f98"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconL_48.gi": {
+      "bytes": 7488,
+      "sha256": "83f4bf2e3a4511c388fbf4acb01142e593c5e5c2d6f825fc1ce7151fc7214e74"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconL_49.gi": {
+      "bytes": 7488,
+      "sha256": "5d3939516050c31c118d1ecc4a7462620b5fbae9e2f33094f5fbcb42be0a21be"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconL_50.gi": {
+      "bytes": 7488,
+      "sha256": "9439da173f62adaabe78cfcef7ce9925e49d0f5cb5e546eae49a360a7e341ea6"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconL_51.gi": {
+      "bytes": 7488,
+      "sha256": "61e937978a574254a2ae503165b046d7358624dd34af8667df916c8b7c89362e"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconL_52.gi": {
+      "bytes": 7488,
+      "sha256": "7094096f36f6f69732c1e30d8732e8e6e1b686c643fa9b42f873c5ea5872d390"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconL_53.gi": {
+      "bytes": 7488,
+      "sha256": "cd5de798f14f96330086500e0a66254c5aa812a3afc1b6ec7bbda011e258a5a6"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconL_54.gi": {
+      "bytes": 7488,
+      "sha256": "732d5839c5044a2e2f0c90632dc1e521829a23e6cffda42b19dbc938b989d589"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconL_55.gi": {
+      "bytes": 7488,
+      "sha256": "7f8ac2fc571c6db723534c3a002b3fce878507603b8872989dcc762e4fdcc352"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconL_56.gi": {
+      "bytes": 7488,
+      "sha256": "b39793cf862dd84579c0adc9d67fa81e50ad7683a3ab1daeea71234782a86a73"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconL_57.gi": {
+      "bytes": 7488,
+      "sha256": "8c1534c3dad08e0e223dc18748060ced04d1d7027c88fac0f56b3680c9f74ef4"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconL_58.gi": {
+      "bytes": 7488,
+      "sha256": "56c2c01e50fd2ca019766c7471a76ecde311793f0e620384ba1c73ee31a38bff"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconL_59.gi": {
+      "bytes": 7488,
+      "sha256": "737c133e5c66e1eaa61e8e940aec8475d356b35bd28aa6a3e58f68d0f36f1719"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconL_60.gi": {
+      "bytes": 7488,
+      "sha256": "1392d738f214bbdb5130a19f590311d58e9932964da0d0bc8779e035430a26e7"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconL_61.gi": {
+      "bytes": 7488,
+      "sha256": "75f590b48ef1aca912b7b13a9c513fb450c4c55c3ec26296417aa9b1017edd2a"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconL_62.gi": {
+      "bytes": 7488,
+      "sha256": "56b895bcd08602b532ee5e64c49678cf307214e163c40fbffa2c38a1e59a48c1"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconL_63.gi": {
+      "bytes": 7488,
+      "sha256": "a7bbeee71ef040e0f5281c41499213a3f3f0d46f6afb919835adeec343a42d4f"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconL_64.gi": {
+      "bytes": 7488,
+      "sha256": "8195ccda919455e556b584e86d5ab4d0f2424057e72dd920c4eb8aa17d0fa4c8"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconL_65.gi": {
+      "bytes": 7488,
+      "sha256": "e660fb2b3d92bdc83941c44fe4a490061fe06799de0d6e5980928ca0aeedd3b4"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconR_00.gi": {
+      "bytes": 7488,
+      "sha256": "2cd1fcb81dfa9429acc0cff6c9f4830465fc7b433c334babc527c7b6a91d2b23"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconR_01.gi": {
+      "bytes": 7488,
+      "sha256": "0ff57422bcad39e82eb05d39a8c7fe99be4f8cb27c1e811a0a90367805c784a1"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconR_02.gi": {
+      "bytes": 7488,
+      "sha256": "06ea5abe63111d12698836b9bc7673b4eb620381438a5d02625e01b70b6ef355"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconR_03.gi": {
+      "bytes": 7488,
+      "sha256": "2f02fff10130a3499a130bf121aafd9bd7ceaad1157d15a9410d0405a984d7d4"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconR_04.gi": {
+      "bytes": 7488,
+      "sha256": "4ba55e9041c576c319fa4c44016b1c221ab3fd0a612388b40190c8aa5bdf7b67"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconR_05.gi": {
+      "bytes": 7488,
+      "sha256": "f7129f3403306e269b522008c518d8da7ecc1d24d6434937e5078a7093bc05f9"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconR_06.gi": {
+      "bytes": 7488,
+      "sha256": "798bcd808bea5c8a72cc5217bda75d4c1c7ac32e22157deda3fc425ce1c337ee"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconR_07.gi": {
+      "bytes": 7488,
+      "sha256": "a8aa2ca861850eb274f702fe7cc6abb572261f5ebcabfa3ead0e6e285338d0fc"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconR_08.gi": {
+      "bytes": 7488,
+      "sha256": "0b87dc4a0aa7c1988c4d23bb4b7cdabed36b2e38419210110f9379503eccf494"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconR_09.gi": {
+      "bytes": 7488,
+      "sha256": "37d79ea728c78bc5139aa7e70e6793186add65cfb60fff91a8f9ea97b1391a8e"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconR_10.gi": {
+      "bytes": 7488,
+      "sha256": "55c308a1da27ed05f27c407dca596b481b69a1374d4e1bcc9f6971df38065262"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconR_11.gi": {
+      "bytes": 7488,
+      "sha256": "ed736295201e0e97f7c940858db7d08cb15152b8a872000cb3f02791c48aab6a"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconR_12.gi": {
+      "bytes": 7488,
+      "sha256": "bc819cf36adab076168270bcacb569b795fe9cd0c85c35c04f22397ec0337158"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconR_13.gi": {
+      "bytes": 7488,
+      "sha256": "baa51eac3e530f25530ed4989ccc76443ea92e71804bac79d10683a3f2923401"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconR_14.gi": {
+      "bytes": 7488,
+      "sha256": "d4d0ce6c6ca918e9cf52435cecc4caf473fea8bc3b6858c9a539272c7bd0da07"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconR_15.gi": {
+      "bytes": 7488,
+      "sha256": "ea513a4cdb5281ad0b315326b437e3aa85998f489a26667831f85644c44d32e7"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconR_16.gi": {
+      "bytes": 7488,
+      "sha256": "0da01f7d4f579b4c53952e54ae8682ade81850eb95d68aa0a179709d4be0d104"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconR_17.gi": {
+      "bytes": 7488,
+      "sha256": "cfade59624dcf8be609029791885920109aaeca09362220543bb52f24421530d"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconR_18.gi": {
+      "bytes": 7488,
+      "sha256": "c3ef7e52bb304eb7342b52fe163f8e550f2575ade11925a1e52525f5b11cc44c"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconR_19.gi": {
+      "bytes": 7488,
+      "sha256": "a5df8186c0a2fd079da2a48e0d38e9f10692eea8ddc7b538d8e8a6a4eee6d5b7"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconR_20.gi": {
+      "bytes": 7488,
+      "sha256": "31d4326504ca2af6e0f0dbc148e255bf8b30da0983ed9162e740647ae4e6515b"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconR_21.gi": {
+      "bytes": 7488,
+      "sha256": "69957c9d109f5d6db6d7eacd19270e3e0fb4b1c97e0762dfc62759da703550aa"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconR_22.gi": {
+      "bytes": 7488,
+      "sha256": "54e5a28482a9ce8e88be0916a561e8576c1dedb2db895be024d143a11e32846b"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconR_23.gi": {
+      "bytes": 7488,
+      "sha256": "46172846a304a35820aeca73178fc5cee54c31b46d3eaf79246dfdbf8d171610"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconR_24.gi": {
+      "bytes": 7488,
+      "sha256": "8539669773d27d0a09d038f1139513d60ecb9d0455675bf786d23e116f57cb9d"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconR_25.gi": {
+      "bytes": 7488,
+      "sha256": "250dbe60eb9d6402d25b68c0dde886f1dde7dd77a0f409d5fa08501dd0e497b4"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconR_26.gi": {
+      "bytes": 7488,
+      "sha256": "1e72306144f8beb1d7dd8c5b93db96cc92c8e6dfe42d212f17f26d533c57237e"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconR_27.gi": {
+      "bytes": 7488,
+      "sha256": "92e608dc8ffe3c90b760a9b0197a2a3f42502c5fbecccb55f3cb581d0673e001"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconR_28.gi": {
+      "bytes": 7488,
+      "sha256": "88f4765ce85f97cec8e93ca7bc1ff84ebbf4d9db49befd1e6bcde6f7020b750f"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconR_29.gi": {
+      "bytes": 7488,
+      "sha256": "8129c276d496826da3fff94bbc0e24225bc6c1fc342a7255276a4e529962bbe9"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconR_30.gi": {
+      "bytes": 7488,
+      "sha256": "0605358dc6eb2c5d5b4a4369c50542628384c40fac0f46d73581df386b895202"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconR_31.gi": {
+      "bytes": 7488,
+      "sha256": "c8029b719017b9f2e0b1d3587a917ceb2c7869ffa3b5cf71dc58a27c49e35e66"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconR_32.gi": {
+      "bytes": 7488,
+      "sha256": "5141426541081a509ec399bfe438cd0f87b7d107f791b12f2b9431b5f2a9a469"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconR_33.gi": {
+      "bytes": 7488,
+      "sha256": "a223c73d91d06eede909740bd6a6de385d4f389e5c8706b3be448d12926d8324"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconR_34.gi": {
+      "bytes": 7488,
+      "sha256": "fc3d2d43ab06ab8833b9ad6aca86b5cd2edc611854d5fddcda1783cb1c43ae26"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconR_35.gi": {
+      "bytes": 7488,
+      "sha256": "93f7551d4ccd668b1e3792e972f6a70a153591c0beb99ddddd948830f169cf34"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconR_36.gi": {
+      "bytes": 7488,
+      "sha256": "8646d9654027b045b57b5d596b1598cb76691c6b472e4aef3078d092ff0bb8c2"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconR_37.gi": {
+      "bytes": 7488,
+      "sha256": "665f161707cba3b71e755c89077e319eb69c37feb599dd8e87022244f5637e52"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconR_38.gi": {
+      "bytes": 7488,
+      "sha256": "6633c7567ee077e99800120868e29dbe7642d65c743d28ff7bbd90bf23ba2d1d"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconR_39.gi": {
+      "bytes": 7488,
+      "sha256": "e38c952cfefdf4fc149bb3679edf6d4a70c1cec028e033329061d3d08ac25206"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconR_40.gi": {
+      "bytes": 7488,
+      "sha256": "119dd03d6e4ff97d6cb858c314f769b02143e09b837daa82aa12258eecd721c1"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconR_41.gi": {
+      "bytes": 7488,
+      "sha256": "83ed505891e7b8355805343dc3a621412f73e84e9913b32f18fa4a4d56c9e484"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconR_42.gi": {
+      "bytes": 7488,
+      "sha256": "6cb0865bf440ed3c812c5f25e7b7c2c896507c21764ec78516fe0db7aa120c1b"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconR_43.gi": {
+      "bytes": 7488,
+      "sha256": "9a53a20509da2f0e23f7cb2f2d1a43924de8b0631cfb4d382ce398d7f133413e"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconR_44.gi": {
+      "bytes": 7488,
+      "sha256": "2266942c6888d1c86e71486e60029763b949e9fae31b971d562d35f946ad7c91"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconR_45.gi": {
+      "bytes": 7488,
+      "sha256": "b32b852369cf0ca6ea89e8d733272923227e4cf731272c5c2af61bc0ca10fb7c"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconR_46.gi": {
+      "bytes": 7488,
+      "sha256": "0fd9fd92b547f932d73c7987cdb2bd329076906b13ca9d83a5ac1f78a07de4bf"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconR_47.gi": {
+      "bytes": 7488,
+      "sha256": "29905c8bdb650e8c1011b247e47db5cc4018e011958d1ddc273259a809ad1a74"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconR_48.gi": {
+      "bytes": 7488,
+      "sha256": "4d66a172a8bdf792b4086a97cd6a5170986c2ff751bb6e8a60aa6fa0020b0af1"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconR_49.gi": {
+      "bytes": 7488,
+      "sha256": "7a8296b9be068fbd0e06d3baf6f53ba96d841d5a9f25a8d72fc44b79865b3098"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconR_50.gi": {
+      "bytes": 7488,
+      "sha256": "cd16e3b9d53a733c4e7161514dcf24b563e3329b2c812341305db8e50210d6b3"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconR_51.gi": {
+      "bytes": 7488,
+      "sha256": "e843da45ed5e80452d1ddcbfec042efa4b9755b106815d26ef497142224784f6"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconR_52.gi": {
+      "bytes": 7488,
+      "sha256": "1933d295c31d2cb505e9a741c664f5626bbb0706e63e80612ac060375ce398de"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconR_53.gi": {
+      "bytes": 7488,
+      "sha256": "1e21ec0fedf5fda17d1f93ddf4bc6c7afcaa77f2890fc25c1eb1996d974c1444"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconR_54.gi": {
+      "bytes": 7488,
+      "sha256": "8b689a88666328a6d465b83ae438181843f6c546118488287d2f6cbd4454892b"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconR_55.gi": {
+      "bytes": 7488,
+      "sha256": "9dace66331d19bf873473caee7cb1c586f00f1e23fc0288489d534ff69bdfa43"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconR_56.gi": {
+      "bytes": 7488,
+      "sha256": "0f0e9a98ee68a5a808f6ed447fb6e75690854de0aad7a010a159047fcf110603"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconR_57.gi": {
+      "bytes": 7488,
+      "sha256": "4ac21e55751313f909dc232342209d8d9d456c04bb08e27b056bf6fbcc92d720"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconR_58.gi": {
+      "bytes": 7488,
+      "sha256": "34bf31a163cceac895cbc0f4ab991dc9e97603cb175b717d2b83886890313517"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DKIconR_59.gi": {
+      "bytes": 7488,
+      "sha256": "f2b3a4a848b1ec47190bbfd19f3f8b3970d832de45d857c9c0ca46ba6c9422a3"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DevKitArrowA.gi": {
+      "bytes": 8896,
+      "sha256": "5ef05c36e86bb938204444c8a535e5f07dbde10a9bbe70f2fdb63d607b565b95"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DevKitArrowD.gi": {
+      "bytes": 8896,
+      "sha256": "72fb787c01248cd106eb2fa8feb07a6199895b2a6841c151722caaf51d723dcc"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DevKitArrowN.gi": {
+      "bytes": 8896,
+      "sha256": "533c0c3bbcf33018ad061001099f840d989aab7327d0fa7e8ed8d836ff77dbd3"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DevKitEndOpenA.gi": {
+      "bytes": 4540,
+      "sha256": "132d9333ea4b4437fdd73f45f3d78db4014dc35b8992de639dc1e91bbe4204e1"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DevKitEndOpenD.gi": {
+      "bytes": 4518,
+      "sha256": "c639e4ba3331b6d29ae0bce654a5d793f9479041adb18dc25e2e67fde8e62b81"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DevKitEndOpenN.gi": {
+      "bytes": 4509,
+      "sha256": "8375e930431ead829d6d92861dad3e10a4ac877f91de8641ef4cd772005d98b1"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DevKitNavA.gi": {
+      "bytes": 19776,
+      "sha256": "07e9a07afca6f68541005e92ace2ea16430aebec62d3019f5e4da4a05cad9caf"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DevKitNavD.gi": {
+      "bytes": 19776,
+      "sha256": "f4bca10ea486dbb1c18b9c8688b4b661775bf22d667df1c45dce416273904b3b"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DevKitNavN.gi": {
+      "bytes": 19776,
+      "sha256": "1d40cfbe7b4b6b1d6bceb4676ad9a73f753487539010e80b53b234d86ddb5f11"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DevKitPanelBG.gi": {
+      "bytes": 1501996,
+      "sha256": "ac5de2f6b9c0044b09a5b9723f296a86314249d8a73d478fe697fd3125799dfa"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DevKitRowA.gi": {
+      "bytes": 98976,
+      "sha256": "4ebf917067b6edf909fadee85b2e2b669bfa9a256e5275672febc1e71a13d875"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DevKitRowD.gi": {
+      "bytes": 98976,
+      "sha256": "5db6134ee0bffaeefe0a1f2f54676f9567da7119f39f51c8c70c249e3a049576"
+    },
+    "Mods/Tweaks/DevKit/DATA/FormShip2/DevKitRowN.gi": {
+      "bytes": 98976,
+      "sha256": "1cda7f3cc897f90d7cf2566ef51fd9c0b5343f52a372f24a7684792fe4e55c5a"
+    },
+    "Mods/Tweaks/DevKit/DATA/Items/2ArtAnalyzer_ab.gi": {
+      "bytes": 1130,
+      "sha256": "e8c5d533edcf79fc0fa0ce4199a1a3348a6665bb576aab43aef651e776f4888e"
+    },
+    "Mods/Tweaks/DevKit/DATA/Items/2ArtAntigrav_ab.gi": {
+      "bytes": 1018,
+      "sha256": "dc4c1f676d3198563260c491edc1ce13bc0ca23face35337033b2d465715e658"
+    },
+    "Mods/Tweaks/DevKit/DATA/Items/2ArtDecelerate_ab.gi": {
+      "bytes": 1117,
+      "sha256": "d67cac13e05f5e79f0f54e67ac9915f050cfba62026e0252738c8b4e40d92376"
+    },
+    "Mods/Tweaks/DevKit/DATA/Items/2ArtDefToEnergy_ab.gi": {
+      "bytes": 934,
+      "sha256": "992ca502e40d9b116f46245ef2c85f92f01c3d106f20d6df8c48829462a9d2e9"
+    },
+    "Mods/Tweaks/DevKit/DATA/Items/2ArtDef_ab.gi": {
+      "bytes": 988,
+      "sha256": "80f0e85d4626e9c3cfe9e5f48b3d1fb5694135684956e2868384ec0bfa81ee99"
+    },
+    "Mods/Tweaks/DevKit/DATA/Items/2ArtDroid_ab.gi": {
+      "bytes": 1068,
+      "sha256": "1af7989cb07c537c462fa44752dc975f1c6f60993378186e18194f55214b92ca"
+    },
+    "Mods/Tweaks/DevKit/DATA/Items/2ArtEnergyDef_ab.gi": {
+      "bytes": 1118,
+      "sha256": "d60ee600877c86999ecaf65b6da1405a05ef7c9c7bb0c99968ee73b4c1ef360f"
+    },
+    "Mods/Tweaks/DevKit/DATA/Items/2ArtEnergyPulse_ab.gi": {
+      "bytes": 996,
+      "sha256": "223d90fc7799d72ca90750da46cbcb1c3a97e7a9bb11eb6686ce01cbf8f21d22"
+    },
+    "Mods/Tweaks/DevKit/DATA/Items/2ArtFastRacks_ab.gi": {
+      "bytes": 1257,
+      "sha256": "d9c09e64a4242485a10a78ff641c26d4f0a3a379bfbe36f3f0371c07e55ebca6"
+    },
+    "Mods/Tweaks/DevKit/DATA/Items/2ArtForsage_ab.gi": {
+      "bytes": 1046,
+      "sha256": "7f42d59a0fc7bb7a2c81f091ddd062d4da74010e65d69c462a7ea79e67c32439"
+    },
+    "Mods/Tweaks/DevKit/DATA/Items/2ArtGiperJump_ab.gi": {
+      "bytes": 973,
+      "sha256": "6afe60ef403e181ab27068440cd5ab37c56427024d4977be56e0400ac4ec05e5"
+    },
+    "Mods/Tweaks/DevKit/DATA/Items/2ArtHook_ab.gi": {
+      "bytes": 1059,
+      "sha256": "ffc34dabc12b4589255ae5d224c224efe99148618e0148803f3008b40d0cee84"
+    },
+    "Mods/Tweaks/DevKit/DATA/Items/2ArtHull_ab.gi": {
+      "bytes": 825,
+      "sha256": "95534d96e8ffa3eb639a61500e8fa04762a470a51754c4e29ddaadaa22dd7e03"
+    },
+    "Mods/Tweaks/DevKit/DATA/Items/2ArtMissileDef_ab.gi": {
+      "bytes": 1292,
+      "sha256": "90c9b49d65df54b7fab4d969f579ba71892bb6b4ac2b4a0b73453a4a37dcd769"
+    },
+    "Mods/Tweaks/DevKit/DATA/Items/2ArtRadar_ab.gi": {
+      "bytes": 1000,
+      "sha256": "950db05affd8f925dcd6416f944e36a6ab3289c743883a85cbd1bcdc5b4adff0"
+    },
+    "Mods/Tweaks/DevKit/DATA/Items/2ArtScaner_ab.gi": {
+      "bytes": 926,
+      "sha256": "60bb70fb281be2b7f675e94a708b3657a663738cc938b9cf2da624a1b7cd0ec2"
+    },
+    "Mods/Tweaks/DevKit/DATA/Items/2ArtSpeed_ab.gi": {
+      "bytes": 953,
+      "sha256": "670cb57e44e17ae614d93282bd037e26c6c7b7dd7327cf65d80360e46c03dbad"
+    },
+    "Mods/Tweaks/DevKit/DATA/Items/2ArtSplinter_ab.gi": {
+      "bytes": 1014,
+      "sha256": "8631b26c6988d4ccfe883fe4ab02f6d459da2f529af3329dc19dee833da5400c"
+    },
+    "Mods/Tweaks/DevKit/DATA/Items/2ArtWeaponToSpeed_ab.gi": {
+      "bytes": 972,
+      "sha256": "108b6a010edd1e720c88bbd705e4af71327ef241801de18821cf85a27f01ee7f"
+    },
+    "Mods/Tweaks/DevKit/DATA/Items/2Pelengator_Art.gi": {
+      "bytes": 1120,
+      "sha256": "d21bb5b7f6fab11ab5d51a75ff72aa4ab3dfac665a69eed589a8462c4ec3c50a"
+    },
+    "Mods/Tweaks/DevKit/DATA/Script/Mod_DevKit.scr": {
+      "bytes": 155822,
+      "sha256": "d8601ee213fd4506df8dc6678b607f8ab233f51a4c339cd703f07888f54ad08c"
+    },
+    "Mods/Tweaks/DevKit/Native/DevKitWheel.dll": {
+      "bytes": 7557,
+      "sha256": "a290f553ad75061448bfa4ebd16fc0f82b69fb36abb00f2fca693f10fa2aa162"
+    },
+    "Mods/Tweaks/DevKit/DATA/Items/2ExpAcryn_RetunnedBlastWaveLocalizer_ab.gi": {
+      "bytes": 988,
+      "sha256": "80f0e85d4626e9c3cfe9e5f48b3d1fb5694135684956e2868384ec0bfa81ee99"
+    },
+    "Mods/Tweaks/DevKit/DATA/Items/2Pelengator_Art_s.gi": {
+      "bytes": 1120,
+      "sha256": "d21bb5b7f6fab11ab5d51a75ff72aa4ab3dfac665a69eed589a8462c4ec3c50a"
+    },
+    "Mods/Tweaks/DevKit/DATA/Items/2blinker_ab.gi": {
+      "bytes": 1046,
+      "sha256": "7f42d59a0fc7bb7a2c81f091ddd062d4da74010e65d69c462a7ea79e67c32439"
+    },
+    "Mods/Tweaks/DevKit/DATA/Items/2galo_ab.gi": {
+      "bytes": 825,
+      "sha256": "95534d96e8ffa3eb639a61500e8fa04762a470a51754c4e29ddaadaa22dd7e03"
+    },
+    "Mods/Tweaks/DevKit/DATA/Items/2pulsar_ab.gi": {
+      "bytes": 996,
+      "sha256": "223d90fc7799d72ca90750da46cbcb1c3a97e7a9bb11eb6686ce01cbf8f21d22"
+    },
+    "Mods/Tweaks/DevKit/DATA/Items/2Pelengator_Art_ab.gi": {
+      "bytes": 1120,
+      "sha256": "d21bb5b7f6fab11ab5d51a75ff72aa4ab3dfac665a69eed589a8462c4ec3c50a"
+    }
+  },
+  "not_editable": [
+    "ModuleInfo.txt",
+    "DATA/Items/2Pelengator_Art.gi",
+    "DATA/Script/Mod_DevKit.scr",
+    "Native/DevKitWheel.dll",
+    "DATA/Items/2Pelengator_Art_s.gi",
+    "DATA/Items/2Pelengator_Art_ab.gi"
+  ]
+}
