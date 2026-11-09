@@ -1,0 +1,61 @@
+name: Publish DevKit 19.14.41 editable source
+
+on:
+  push:
+    paths:
+      - '.github/workflows/publish-devkit-source.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  recover:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out DevKit
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Recover editable original source
+        run: python 1DevKit_v19.14.41_Nexus-GitHub/scripts/recover.py
+      - name: Verify recovered source by rebuilding archive
+        run: |
+          python 1DevKit_v19.14.41_Nexus-GitHub/scripts/build.py
+          python - <<'PY'
+          from zipfile import ZipFile
+          from hashlib import sha256
+          from pathlib import Path
+          import json
+          folder=Path('1DevKit_v19.14.41_Nexus-GitHub')
+          orig=folder/'install/DevKit_v19.14.41.rar'
+          rebuilt=folder/'dist/DevKit_v19.14.41_FROM_SOURCE_MIXED.zip'
+          expected='5932ac3c5698eb181ff9635af82f8a51a585bd585732165c31060de2c139b21d'
+          assert sha256(orig.read_bytes()).hexdigest()==expected
+          with ZipFile(orig) as a, ZipFile(rebuilt) as b:
+              assert len(a.namelist())==175
+              assert a.namelist()==b.namelist()
+              diff=[p for p in a.namelist() if a.read(p)!=b.read(p)]
+              if diff:
+                  raise RuntimeError(f'Rebuild not byte-identical inside ZIP: {diff[:10]}')
+          manifest=json.loads((folder/'original-file-sha256.json').read_text())
+          sources=list((folder/'source').rglob('*.json'))
+          report={'original_sha256':expected, 'original_file_count':175,
+                  'recovered_sources':len(sources), 'unrecovered':manifest['not_editable'],
+                  'rebuilt_inner_files_exact':True, 'in_game_tested':False}
+          (folder/'VALIDATION_REPORT.json').write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+          print('PASS files:',175,'editable:',len(sources),'not editable:',len(report['unrecovered']))
+          PY
+      - name: Commit recovered sources
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -- 1DevKit_v19.14.41_Nexus-GitHub/source 1DevKit_v19.14.41_Nexus-GitHub/original-file-sha256.json 1DevKit_v19.14.41_Nexus-GitHub/VALIDATION_REPORT.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Publish validated editable DevKit 19.14.41 sources'
+            git push origin HEAD:main
+          fi
